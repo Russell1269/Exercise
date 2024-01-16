@@ -1,4 +1,4 @@
-# Exercise
+# Sayman Say's Game
 For exercise Shradha khapra's Code
 
 # Teacher 
